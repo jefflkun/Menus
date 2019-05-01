@@ -1,0 +1,81 @@
+body{
+	background-color: #2e3137;
+}
+
+body h1{
+	color: white;
+	text-align:center;
+	font-family: corbel;
+	font-size: 30px;
+}
+
+em[title=logotipo]{
+	color: blue;
+
+
+}
+body h2{
+	text-align: center;
+	background-color: #454955;
+	color: #878c98;
+}
+
+#formulario{
+	background-color: #22262b;
+	color:black;
+	width: 350px;
+	height:480px;
+	border-radius: 20px;
+	padding-top:5px;
+	margin: 0px 0px 0px 480px;
+}
+
+#formulario input{
+	background-color:#454955;
+	display: block;
+	width: 225px;
+	padding:8px;
+	margin: 0px 0px 0px 20px;
+
+}
+
+#formulario label{
+	color: #9ea1a9;	
+	margin: 0px 0px 0px 20px;
+}
+.Sign-up{
+	background-color: #29a0d3;
+	margin: 0px 0px 0px 0px;
+	color: white;
+	border-radius: 5px;
+	border-color: #29a0d3;
+	margin: 0px 0px 0px 20px;
+}
+
+.Sign-in{
+	background-color: #454955;
+	margin: 0px 0px 0px 10px;
+	width: 320px;
+	height:30px;
+	color: #fff;
+	border-radius: 5px;
+	border-color: #454955;
+
+}
+.text{
+	color:white;
+	text-align: center;
+
+}
+
+.termos {
+	color: #878c98;
+	margin: 0px 0px 10px 20px;
+
+}
+
+.checkbox{
+
+	position: relative;
+
+}
