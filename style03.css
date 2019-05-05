@@ -1,0 +1,128 @@
+body{
+	background-color: #2e3137;
+}
+
+body h1{
+	color: white;
+	text-align:center;
+	font-family: corbel;
+	font-size: 30px;
+}
+
+em[title=logotipo]{
+	color: green;
+
+
+}
+body h2{
+	text-align: center;
+	background-color: #454955;
+	color: #878c98;
+}
+
+#formulario{
+	background-color: #22262b;
+	color:black;
+	width: 350px;
+	height:480px;
+	border-radius: 20px;
+	padding-top:5px;
+	margin: 0px 0px 0px 480px;
+}
+
+#formulario input{
+	background-color:#454955;
+	display: block;
+	width: 225px;
+	padding:8px;
+	margin: 0px 0px 0px 20px;
+	border-radius: 5px;
+	border-color: #22262b;
+
+}
+
+#formulario label{
+	color: #9ea1a9;	
+	margin: 0px 0px 0px 20px;
+}
+.Sign-in{
+	background-color: #29a0d3;
+	color: white;
+	border-radius: 5px;
+	border-color: #29a0d3;
+	margin: 0px 0px 0px 20px;
+}
+
+.Creat-an-account{
+	background-color: #454955;
+	margin: 0px 0px 0px 20px;
+	width: 320px;
+	height:30px;
+	color: #fff;
+	border-radius: 5px;
+	border-color: #454955;
+
+}
+.text{
+	color:white;
+	text-align: center;
+
+}
+
+.termos {
+	color: #878c98;
+	margin: 10px 0px 10px 20px;
+
+}
+
+.confirma-login{
+	position: relative;
+	margin: 0px -60px -50px -50px;
+	height: 15px;
+
+
+
+
+}
+
+.icon-facebook{
+	background-color: #3c4498;
+	border-radius: 5px;
+	margin: 30px 0px 0px 20px;
+	width: 320px;
+	height:30px;
+	border-color: #3c4498;
+	color: white;
+
+
+}
+
+.icon-twitter{
+	background-color: #00c4fe;
+	border-radius: 5px;
+	margin: 10px 0px 0px 20px;
+	width: 320px;
+	height:30px;
+	border-color: #00c4fe;
+	color: white;
+
+}
+.icon-gmail{
+	background-color: #dd0000;
+	border-radius: 5px;
+	margin: 10px 0px 0px 20px;
+	width: 320px;
+	height:30px;
+	border-color: #dd0000;
+	color: white;
+
+
+}
+
+.icon-face{
+	width: 20px;
+	height:20px;
+	margin: 10px 0px 0px 20px;
+
+
+}
